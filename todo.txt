@@ -1,0 +1,27 @@
+Appli offline cosplay :
+
+pourquoi ?
+    -tester les feedbacks
+    -faire du contenu Instagram
+    -être mobile
+
+ça doit :
+    -tirer dans le vide
+    -identifier les cibles
+    -faire combos armes entre elles
+    -feedback des données
+    -faire du son
+
+
+UTILISER LES BASES DE DONNEES
+côte client ?
+
+
+tout ramener sur le client ?
+TODO :
+    -repartir de cordplay
+    -enlever le package bluetooth
+
+cd /
+cd wizar/applis/cosplay0.1
+meteor run android-device --mobile-server 192.168.0.12
